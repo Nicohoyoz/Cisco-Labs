@@ -2,7 +2,13 @@
 
 A progression of three Cisco networking labs built in Cisco Packet Tracer, moving from basic IP addressing, to VLAN segmentation with inter-VLAN routing, to firewall access control with an extended ACL. Each lab was built on simulated Cisco hardware and verified with live connectivity tests and, in the firewall lab, packet captures.
 
-> Team project. This was built by a five-person group. Personal names, course identifiers, and instructor details have been removed for this public version. See the "My contributions" note below.
+# Team project. This was built by a five-person group. 
+
+Nicolas Hoyos
+Anthony Castellanos
+Imran Ahmed
+Murtaza Syed
+Shaied Uddin
 
 ## Labs
 
@@ -15,14 +21,6 @@ A progression of three Cisco networking labs built in Cisco Packet Tracer, movin
 ## Skills demonstrated
 
 Cisco IOS configuration (interfaces, DHCP, VLANs, subinterfaces, ACLs), 802.1Q trunking and inter-VLAN routing, IP addressing and subnetting, default-deny style traffic filtering, and verification through ping, `show` commands, and Wireshark packet analysis. All work was done in Cisco Packet Tracer.
-
-## My contributors
-
-Nicolas Hoyos
-Anthony Castellanos
-Imran Ahmed
-Murtaza Syed
-Shaied Uddin
 
 
 ## Note on the Packet Tracer files
