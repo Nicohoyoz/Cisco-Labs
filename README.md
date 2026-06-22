@@ -16,9 +16,14 @@ A progression of three Cisco networking labs built in Cisco Packet Tracer, movin
 
 Cisco IOS configuration (interfaces, DHCP, VLANs, subinterfaces, ACLs), 802.1Q trunking and inter-VLAN routing, IP addressing and subnetting, default-deny style traffic filtering, and verification through ping, `show` commands, and Wireshark packet analysis. All work was done in Cisco Packet Tracer.
 
-## My contributions
+## My contributors
 
-> TODO: replace this with the specific parts you personally built or configured (for example, "configured the router subinterfaces and trunk links in Lab 2, wrote the ACL ruleset in Lab 3, and ran the connectivity tests"). Being specific about your own role is what makes a group project credible to a reader.
+Nicolas Hoyos
+Anthony Castellanos
+Imran Ahmed
+Murtaza Syed
+Shaied Uddin
+
 
 ## Note on the Packet Tracer files
 
