@@ -4,10 +4,10 @@ A progression of three Cisco networking labs built in Cisco Packet Tracer, movin
 
 # Team project. This was built by a five-person group. 
 
-Nicolas Hoyos
-Anthony Castellanos
-Imran Ahmed
-Murtaza Syed
+Nicolas Hoyos,
+Anthony Castellanos,
+Imran Ahmed,
+Murtaza Syed,
 Shaied Uddin
 
 ## Labs
